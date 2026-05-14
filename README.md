@@ -1,4 +1,3 @@
-````md
 # dotenv-cpp
 
 A lightweight C++ library for loading environment variables from `.env` files.
